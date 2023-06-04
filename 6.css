@@ -29,8 +29,11 @@
     margin-top: 5%;
 }
 .tt{
-    text-align: left;
+    width: 85%;
     padding-bottom: 8px; 
+}
+.col{
+    padding: 0px 2px;
 }
 /*--------------------view record-------------------------*/
 #outer-wrapper {
